@@ -6,3 +6,7 @@ class DB:
 
 class Help:
     pass
+
+
+class Feature:
+    pass
