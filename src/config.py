@@ -1,1 +1,2 @@
 SOMEKEY_1 = 'KEY_1'
+SOMEKEY_2 = 'KEY_2'
